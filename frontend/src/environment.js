@@ -1,8 +1,4 @@
 let IS_PROD = true;
-const server = IS_PROD ?
-    "https://apnacollegebackend.onrender.com" :
-
-    "http://localhost:8000"
-
+const server = "https://quick-connect-video-conference-6b6b.onrender.com";
 
 export default server;
